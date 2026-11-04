@@ -105,7 +105,7 @@ npm run build
 
 ## Submission details
 
-- **GitHub repository:** https://github.com/anandkatti2024/templegate-ap-automation
+- **GitHub repository:** https://github.com/anandkatti2024/AP-Automation-System
 - **Database schema:** [database_schema.sql](database_schema.sql)
 - **Demo video:** Add the video URL when available.
 - **Challenges and solutions:** Include the separate challenges-and-solutions
