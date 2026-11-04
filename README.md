@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Templegate Technologies — Level 2 Project
 
 Accounts Payable automation application for vendor onboarding, invoice intake
@@ -110,3 +111,6 @@ npm run build
 - **Challenges and solutions:** Include the separate challenges-and-solutions
   document with the submission email.
 - **Live application:** Optional; add a URL if deployed.
+=======
+# AP-Automation-System
+>>>>>>> origin/main
