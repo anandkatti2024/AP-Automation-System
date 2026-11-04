@@ -110,7 +110,7 @@ npm run build
 - **Demo video:** Add the video URL when available.
 - **Challenges and solutions:** Include the separate challenges-and-solutions
   document with the submission email.
-- **Live application:** Optional; add a URL if deployed.
+- **Live application: https://ap-automation-system-2.onrender.com/
 =======
 # AP-Automation-System
 >>>>>>> origin/main
