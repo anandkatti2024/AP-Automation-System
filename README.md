@@ -108,9 +108,12 @@ npm run build
 - **GitHub repository:** https://github.com/anandkatti2024/AP-Automation-System
 - **Database schema:** [database_schema.sql](database_schema.sql)
 - **Demo video:** Add the video URL when available.
-- **Challenges and solutions:** Include the separate challenges-and-solutions
-  document with the submission email.
+- **Challenges and solutions:
+    Invoice data extraction: Invoice layouts vary, so extracted fields needed manual review and correction.
+    Invoice matching: Matching invoice items and amounts to purchase orders and goods receipts required consistent data.
+    Approval roles: Different actions require the right user roles, so role assignment and permissions had to be configured.
+    Local setup and deployment: The app relies on database and environment settings, which needed to be configured correctly.
+    document with the submission email.
 - **Live application: https://ap-automation-system-2.onrender.com/
-=======
 # AP-Automation-System
 >>>>>>> origin/main
