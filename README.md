@@ -107,7 +107,7 @@ npm run build
 
 - **GitHub repository:** https://github.com/anandkatti2024/AP-Automation-System
 - **Database schema:** [database_schema.sql](database_schema.sql)
-- **Demo video:** Add the video URL when available.
+- **Demo video: https://drive.google.com/file/d/1w1ll4MEFp6XQSnGo5tzMNLJ2UxIciY5h/view?usp=sharing
 - **Challenges and solutions:
     Invoice data extraction: Invoice layouts vary, so extracted fields needed manual review and correction.
     Invoice matching: Matching invoice items and amounts to purchase orders and goods receipts required consistent data.
